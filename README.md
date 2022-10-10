@@ -7,4 +7,4 @@ Overview of how to modify cx23880/1/2/3 TV cards to improve RAW RF capture.
 wiki https://github.com/tandersn/cxadc-hw-mod/wiki
 
 
-This work is a continuation of, and build on the foundation of, the preceeding work done by HappyCube (Chad Page) and hchew.  The original web page by hchew has been save to .pdf and is included here under "The_Historical_Documents"
+This work is a continuation of, and built on the foundation of, the preceeding work done by HappyCube (Chad Page) and hchew.  The original web page by hchew has been save to .pdf and is included here under "The_Historical_Documents"
